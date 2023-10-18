@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bizznesstech
 - 👀 I’m interested in developing youth sport tech
 - 🌱 I’m currently learning swift
-- 💞️ I’m looking to collaborate on anyone that want to help expand the tech in youth sports
+- 💞️ I’m looking to collaborate with anyone that want to help expand the tech in youth sports
 - 📫 How to reach me 
 
 <!---
